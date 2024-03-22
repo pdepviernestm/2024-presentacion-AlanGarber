@@ -1,5 +1,6 @@
 # Alan Garber
 ## Estudiante de Ingenieria en Sistemas de Informacion
+En mi tiempo libre me gust jugar al basquet
 <a href="https://www.linkedin.com/in/alangarber/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
